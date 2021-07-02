@@ -1,1 +1,1 @@
-# gemtokenfactory.com
+# https://gemtokenfactory.github.io/
